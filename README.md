@@ -5,7 +5,8 @@
 ## 🔗 Connect with Me  
 - **Email**: [noa.obringer@gmail.com](mailto:noa.obringer@gmail.com)  
 - **LinkedIn**: [Noa Obringer](https://www.linkedin.com/in/noa-obringer-3a2793291/)  
-- **GitHub**: [17Sx](https://github.com/17Sx)  
+- **GitHub**: [17Sx](https://github.com/17Sx)
+- **Portfolio**: [noaobringer.com](https://noaobringer.com) 
 
 ---
 
@@ -42,6 +43,13 @@ Here are the technologies and tools I work with:
 
 - I'm currently looking for a **2-4 month internship starting April 2025** to expand my expertise and contribute to a dynamic team in the tech industry.  
 - Outside of coding, I enjoy **esports**, **fitness**, and exploring new topics through reading.  
+
+---
+
+## ☕ Support Me  
+
+If you enjoy my work or find it useful, consider supporting me:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noaobringer)  
 
 ---
 
