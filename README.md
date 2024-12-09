@@ -5,7 +5,6 @@
 ## 🔗 Connect with Me  
 - **Email**: [noa.obringer@gmail.com](mailto:noa.obringer@gmail.com)  
 - **LinkedIn**: [Noa Obringer](https://www.linkedin.com/in/noa-obringer-3a2793291/)  
-- **GitHub**: [17Sx](https://github.com/17Sx)
 - **Portfolio**: [noaobringer.com](https://noaobringer.com) 
 
 ---
