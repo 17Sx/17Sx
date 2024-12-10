@@ -1,4 +1,3 @@
-# Welcome to Noa Obringer's GitHub! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+World+!+👋)](https://git.io/typing-svg)
 
 
