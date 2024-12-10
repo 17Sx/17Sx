@@ -1,4 +1,6 @@
-# Welcome to Noa Obringer's GitHub! 👋  
+# Welcome to Noa Obringer's GitHub! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Welcome+to+Noa+Obringer's+Github+!)](https://git.io/typing-svg)
+
 
 🌟 Passionate about **web development**, **UX/UI design**, and **digital innovation**, I am currently a second-year student in **Digital Coding and Innovation** at the **Institut de l'Internet et du Multimédia (IIM)** in Nanterre. I am constantly seeking opportunities to learn, collaborate, and grow in the tech industry.  
 
