@@ -4,10 +4,12 @@
 
 🌟 Passionate about **web development**, **UX/UI design**, and **digital innovation**, I am currently a second-year student in **Digital Coding and Innovation** at the **Institut de l'Internet et du Multimédia (IIM)** in Nanterre. I am constantly seeking opportunities to learn, collaborate, and grow in the tech industry.  
 
-## 🔗 Connect with Me  
-- **Email**: [noa.obringer@gmail.com](mailto:noa.obringer@gmail.com)  
-- **LinkedIn**: [Noa Obringer](https://www.linkedin.com/in/noa-obringer-3a2793291/)  
-- **Portfolio**: [noaobringer.com](https://noaobringer.com) 
+  ## 🌱 About Me  
+
+- I'm currently looking for a **2-4 month internship starting April 2025** to expand my expertise and contribute to a dynamic team in the tech industry.  
+- Outside of coding, I enjoy **esports**, **fitness**, and exploring new topics through reading.  
+
+---
 
 ---
 
@@ -26,13 +28,6 @@ Here are the technologies and tools I work with:
 
 ### **Tools and Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-
----
-
-## 🌱 About Me  
-
-- I'm currently looking for a **2-4 month internship starting April 2025** to expand my expertise and contribute to a dynamic team in the tech industry.  
-- Outside of coding, I enjoy **esports**, **fitness**, and exploring new topics through reading.  
 
 ---
 
