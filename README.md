@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+World+im+Noa+Obringer+!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=60&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+World+im+Noa+Obringer+!+👋)](https://git.io/typing-svg)
 
 ---
 
