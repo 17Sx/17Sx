@@ -11,6 +11,12 @@
 
 ---
 
+## ✉️ Contact
+
+🔗 LinkedIn : ![Noa Obringer](https://www.linkedin.com/in/noa-obringer-3a2793291/)
+✉️ Email : ![noa.obringer@gmail.com](mailto:noa.obringer@gmail.com)
+📄 Portfolio : ![noaobringer.com](noaobringer.com)
+
 ---
 
 ## 🛠️ Languages and Tools  
@@ -33,8 +39,7 @@ Here are the technologies and tools I work with:
 
 ## ☕ Support Me  
 
-If you enjoy my work or find it useful, consider supporting me:  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noaobringer)  
+If you enjoy my work or find it useful, consider supporting me:  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noaobringer)  
 
 ---
 
