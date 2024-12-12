@@ -13,9 +13,9 @@
 
 ## ✉️ Contact
 
-🔗 LinkedIn : ![Noa Obringer](https://www.linkedin.com/in/noa-obringer-3a2793291/)
-✉️ Email : ![noa.obringer@gmail.com](mailto:noa.obringer@gmail.com)
-📄 Portfolio : ![noaobringer.com](noaobringer.com)
+- **🔗 LinkedIn** : [Noa Obringer](https://www.linkedin.com/in/noa-obringer-3a2793291/)
+- **✉️ Email** : [noa.obringer@gmail.com](mailto:noa.obringer@gmail.com)
+- **📄 Portfolio** : [noaobringer.com](https://noaobringer.com)
 
 ---
 
