@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3500&pause=500&vCenter=true&random=false&width=750&lines=Welcome+to+Noa+Obringer+Github+!+👋)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge)](https://github.com/17Sx)
-
 ---
 
 🌟 Passionate about **web development**, **UX/UI design**, and **digital innovation**, I am currently a second-year student in **Digital Coding and Innovation** at the **Institut de l'Internet et du Multimédia (IIM)** in Nanterre. I am constantly seeking opportunities to learn, collaborate, and grow in the tech industry.  
@@ -41,6 +39,8 @@ Here are the technologies and tools I work with:
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge)](https://github.com/17Sx)
 
 
 ## ☕ Support Me  
