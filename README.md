@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=30&duration=3500&pause=500&vCenter=true&random=false&width=750&lines=Welcome+to+Noa+Obringer+Github+!+👋)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ashish-CodeJourney&style=for-the-badge)](https://github.com/17Sx)
+[![Profile Views](https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge)](https://github.com/17Sx)
 
 ---
 
