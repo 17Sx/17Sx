@@ -40,9 +40,6 @@ Here are the technologies and tools I work with:
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge)](https://github.com/17Sx)
-
-
 ## ☕ Support Me  
 
 If you enjoy my work or find it useful, consider supporting me:  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD835?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noaobringer)  
@@ -50,3 +47,5 @@ If you enjoy my work or find it useful, consider supporting me:  [![Buy Me a Cof
 ---
 
 Feel free to reach out or explore my repositories to see my projects! 🚀  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge)](https://github.com/17Sx)
