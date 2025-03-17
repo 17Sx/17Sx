@@ -6,7 +6,6 @@
 
   ## 🌱 About Me  
 
-- I'm currently looking for a **2-4 month internship starting April 2025** to expand my expertise and contribute to a dynamic team in the tech industry.  
 - Outside of coding, I enjoy **esports**, **fitness**, and exploring new topics through reading.  
 
 ---
