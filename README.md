@@ -4,7 +4,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge)](https://github.com/17Sx)
 
 
-![17Sx Github Stats](https://github-readme-stats.vercel.app/api?username=17Sx&theme=dark&show_icons=true)
 ---
 
 ## ✉️ Contact
