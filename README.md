@@ -31,9 +31,6 @@
 
 ## 📊 My GitHub Profile
 
-<!-- Replace the stats section with alternative visualizations -->
-<img src="https://github-profile-trophy.vercel.app/?username=17Sx&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
 <br>
 
 <!-- Skills usage donut chart -->
@@ -95,12 +92,32 @@
 
 <div align="center">
 
-## 💻 Coding Activity
+## 🏆 My Flagship Projects
 
-<!-- Add a Metrics insights section -->
-<a href="https://github.com/17Sx">
-  <img src="https://metrics.lecoq.io/17Sx?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Europe%2FParis" alt="Detailed Coding Metrics" width="75%">
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Portfolio</h3>
+      <div align="center">
+        <a href="https://noaobringer.com" target="_blank">
+          <img src="https://via.placeholder.com/300x180?text=Portfolio+Noa+Obringer" width="400" alt="Portfolio Screenshot"/>
+        </a>
+        <p><strong>Technologies:</strong> React, Next.js, TailwindCSS</p>
+        <p>My personal portfolio showcasing my skills and projects</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Flagship Project 2</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/300x180?text=Project+2" width="400" alt="Project Screenshot"/>
+        </a>
+        <p><strong>Technologies:</strong> JavaScript, Node.js, MySQL</p>
+        <p>Description of my second flagship project</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -109,8 +126,6 @@
 <div align="center">
 
 ## 🌟 About Me
-
-</div>
 
 ```javascript
 const noa = {
@@ -121,7 +136,7 @@ const noa = {
 };
 ```
 
-
+</div>
 
 ---
 
