@@ -104,9 +104,3 @@ drwxr-xr-x 10 17Sx dev     4096 Jun  1 12:30 ..
   <a href="https://buymeacoffee.com/noaobringer"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black"/></a>
   <img src="https://komarev.com/ghpvc/?username=17Sx&style=flat&color=4F46E5" alt="Profile Views" />
 </div>
-
-<style>
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
