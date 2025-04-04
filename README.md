@@ -6,9 +6,6 @@
   | | / /  ____) >  < 
   |_|/_/  |_____/_/\_\
                       
-                      
-
-
 ```
 
 <div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
