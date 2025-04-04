@@ -42,38 +42,6 @@ Full Stack Developer | Web Enthusiast | Coffee Powered
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ./skills --list
 
-```
-╔════════════════════════════════════════╗
-║             TECH SKILLS                ║
-╚════════════════════════════════════════╝
-
-[LANGUAGES]----------------------------
-Python           ████████████████████
-JavaScript       ████████████████████
-PHP              ███████████████░░░░░
-
-[FRONTEND]-----------------------------
-HTML/CSS         ████████████████████
-Sass             ███████████████░░░░░
-TailwindCSS      ███████████████░░░░░
-Bootstrap        ████████████████░░░░
-React            ███████████████░░░░░
-Next.js          ███████████████░░░░░
-
-[BACKEND]------------------------------
-Node.js          ███████████████░░░░░
-MySQL            ████████████████████
-Prisma           ███████████████░░░░░
-
-[TOOLS]--------------------------------
-Git/GitHub       ████████████████████
-WordPress        ████████████████░░░░
-Figma            ███████████████░░░░░
-
-[LEARNING]-----------------------------
-Three.js         ██████░░░░░░░░░░░░░░
-```
-
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
 
 ```javascript
