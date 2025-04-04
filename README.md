@@ -40,8 +40,6 @@ Full Stack Developer | Web Enthusiast | Coffee Powered
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=nord_dark" alt="Top Languages by Commit" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
 
-<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ./skills --list
-
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
 
 ```javascript
