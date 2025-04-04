@@ -28,9 +28,10 @@
 <br>
 
 <!-- Skills usage donut chart -->
+<div >
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=tokyonight" alt="Top Languages by Repo" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=tokyonight" alt="Top Languages by Commit" />
-
+</div>
 <br>
 
 <!-- Profile summary -->
