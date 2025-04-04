@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 Welcome to Noa Obringer's GitHub 🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=3500&pause=500&color=4F46E5&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Passionate+about+New+Technologies;Always+seeking+new+challenges)](https://git.io/typing-svg)
@@ -23,11 +21,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" />
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📊 My GitHub Profile
 
@@ -42,11 +36,7 @@
 <!-- Profile summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=tokyonight" alt="GitHub Stats" />
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🛠️ My Technical Skills
 
@@ -86,11 +76,7 @@
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🌟 About Me
 
@@ -103,11 +89,7 @@ const noa = {
 };
 ```
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📫 Contact Me
 
@@ -117,16 +99,10 @@ If you'd like to discuss a project, a professional opportunity, or simply chat a
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noa.obringer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=safari&logoColor=white)](https://noaobringer.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 💖 Support My Work
 
 If my projects are useful or you like them, you can support me!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noaobringer)
-
-</div>
