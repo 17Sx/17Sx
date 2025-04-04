@@ -92,39 +92,6 @@
 
 <div align="center">
 
-## 🏆 My Flagship Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Personal Portfolio</h3>
-      <div align="center">
-        <a href="https://noaobringer.com" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=Portfolio+Noa+Obringer" width="400" alt="Portfolio Screenshot"/>
-        </a>
-        <p><strong>Technologies:</strong> React, Next.js, TailwindCSS</p>
-        <p>My personal portfolio showcasing my skills and projects</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Flagship Project 2</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=Project+2" width="400" alt="Project Screenshot"/>
-        </a>
-        <p><strong>Technologies:</strong> JavaScript, Node.js, MySQL</p>
-        <p>Description of my second flagship project</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌟 About Me
 
 ```javascript
