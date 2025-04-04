@@ -1,105 +1,149 @@
-<img src="https://i.redd.it/y4qvpy9d4x481.gif" width="180" height="180" style="border-radius: 50%;" />
+```ascii
+  __ ______ _____     
+ /_ |____  / ____|    
+  | |   / / (_____  __
+  | |  / / \___ \ \/ /
+  | | / /  ____) >  < 
+  |_|/_/  |_____/_/\_\
+                      
+                      
 
-<p>
-  <a href="https://www.linkedin.com/in/noa-obringer-3a2793291/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:noa.obringer@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://noaobringer.com">
-    <img src="https://img.shields.io/badge/-Portfolio-4F46E5?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://buymeacoffee.com/noaobringer">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee Badge"/>
-  </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" />
-
----
-
-## 📊 My GitHub Profile
-
-<br>
-
-<!-- Skills usage donut chart -->
-<div >
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=tokyonight" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=tokyonight" alt="Top Languages by Commit" />
-</div>
-<br>
-
-<!-- Profile summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=tokyonight" alt="GitHub Stats" />
-
----
-
-## 🛠️ My Technical Skills
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases & ORM
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🌱 Currently Learning
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
----
-
-## 🌟 About Me
-
-```javascript
-const noa = {
-  basedIn: "France 🇫🇷",
-  passions: ["Web development", "New technologies", "Interface design"],
-  currentFocus: "Perfecting my React and Next.js skills",
-  funFact: "I code better with a good coffee at hand ☕",
-};
 ```
 
----
+<div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-## 📫 Contact Me
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ whoami
 
-If you'd like to discuss a project, a professional opportunity, or simply chat about tech, don't hesitate to contact me!
+```
+Full Stack Developer | Web Enthusiast | Coffee Powered
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noa-obringer-3a2793291/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noa.obringer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=safari&logoColor=white)](https://noaobringer.com)
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat contact.json
 
----
+```json
+{
+  "linkedin": "https://www.linkedin.com/in/noa-obringer-3a2793291/",
+  "email": "noa.obringer@gmail.com",
+  "portfolio": "https://noaobringer.com",
+  "github": "https://github.com/17Sx",
+  "buyMeACoffee": "https://buymeacoffee.com/noaobringer"
+}
+```
 
-### 💖 Support My Work
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ./view_profile --stats
 
-If my projects are useful or you like them, you can support me!
+```
+╔════════════════════════════════════════╗
+║           GITHUB STATISTICS            ║
+╚════════════════════════════════════════╝
+```
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/noaobringer)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=nord_dark" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=nord_dark" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
+
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ./skills --list
+
+```
+╔════════════════════════════════════════╗
+║             TECH SKILLS                ║
+╚════════════════════════════════════════╝
+
+[LANGUAGES]----------------------------
+Python           ████████████████████
+JavaScript       ████████████████████
+PHP              ███████████████░░░░░
+
+[FRONTEND]-----------------------------
+HTML/CSS         ████████████████████
+Sass             ███████████████░░░░░
+TailwindCSS      ███████████████░░░░░
+Bootstrap        ████████████████░░░░
+React            ███████████████░░░░░
+Next.js          ███████████████░░░░░
+
+[BACKEND]------------------------------
+Node.js          ███████████████░░░░░
+MySQL            ████████████████████
+Prisma           ███████████████░░░░░
+
+[TOOLS]--------------------------------
+Git/GitHub       ████████████████████
+WordPress        ████████████████░░░░
+Figma            ███████████████░░░░░
+
+[LEARNING]-----------------------------
+Three.js         ██████░░░░░░░░░░░░░░
+```
+
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
+
+```javascript
+/**
+ * @file: about.js
+ * @description: Personal information
+ */
+
+const dev = {
+  basedIn: "France 🇫🇷",
+  passions: ["Web development", "New technologies", "Interface design"],
+  currentFocus: "Perfecting React and Next.js skills",
+  funFact: "I code better with a good coffee at hand ☕",
+
+  toString: function () {
+    return `${this.basedIn} developer passionate about ${this.passions.join(
+      ", "
+    )}`;
+  },
+};
+
+// Fun fact: This code actually runs!
+console.log(dev.toString());
+```
+
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ls -la projects/
+
+```
+drwxr-xr-x  2 17Sx dev     4096 Jun  1 12:34 .
+drwxr-xr-x 10 17Sx dev     4096 Jun  1 12:30 ..
+-rw-r--r--  1 17Sx dev    28642 Jun  1 12:31 Portfolio 2025.js
+-rw-r--r--  1 17Sx dev    15432 May 28 09:45 overstats.js
+-rw-r--r--  1 17Sx dev     9821 May 15 14:22 pokerodds.js
+```
+
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat README.txt
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║  Thanks for visiting my GitHub profile!                                    ║
+║                                                                            ║
+║  Feel free to explore my repositories and projects.                        ║
+║                                                                            ║
+║  If you'd like to collaborate or have any questions,                       ║
+║  don't hesitate to contact me.                                             ║
+║                                                                            ║
+║  If you find my work helpful or interesting,                               ║
+║  consider supporting me with a coffee!                                     ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ <span style="animation: blinker 1s linear infinite; display: inline-block; width: 10px; height: 15px; background-color: #c9d1d9;"></span>
+
+</div>
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/noa-obringer-3a2793291/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:noa.obringer@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://noaobringer.com"><img src="https://img.shields.io/badge/-Portfolio-4F46E5?style=flat&logo=safari&logoColor=white"/></a>
+  <a href="https://buymeacoffee.com/noaobringer"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black"/></a>
+  <img src="https://komarev.com/ghpvc/?username=17Sx&style=flat&color=4F46E5" alt="Profile Views" />
+</div>
+
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>
