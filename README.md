@@ -1,7 +1,3 @@
-# 🚀 Welcome to Noa Obringer's GitHub 🚀
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=3500&pause=500&color=4F46E5&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Passionate+about+New+Technologies;Always+seeking+new+challenges)](https://git.io/typing-svg)
-
 <img src="https://i.redd.it/y4qvpy9d4x481.gif" width="180" height="180" style="border-radius: 50%;" />
 
 <p>
