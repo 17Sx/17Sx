@@ -70,9 +70,10 @@ console.log(dev.toString());
 ```
 drwxr-xr-x  2 17Sx dev     4096 Jun  1 12:34 .
 drwxr-xr-x 10 17Sx dev     4096 Jun  1 12:30 ..
--rw-r--r--  1 17Sx dev    28642 Jun  1 12:31 <a href="https://portfolio-2025-next-js.vercel.app/">Portfolio 2025.js</a>
--rw-r--r--  1 17Sx dev    15432 May 28 09:45 <a href="https://overstats-six.vercel.app/">overstats.js</a>
--rw-r--r--  1 17Sx dev     9821 May 15 14:22 <a href="https://poker-odds-ten.vercel.app/">pokerodds.js</a>
+-rw-r--r--  1 17Sx dev    28642 Jun  1 12:31 Portfolio 2025.js
+-rw-r--r--  1 17Sx dev    15432 May 28 09:45 overstats.js
+-rw-r--r--  1 17Sx dev     9821 May 15 14:22 pokerodds.js
+
 ```
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat README.txt
