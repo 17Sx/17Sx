@@ -7,6 +7,8 @@
   |_|/_/  |_____/_/\_\
 
 ```
+  <img src="https://komarev.com/ghpvc/?username=17Sx&style=flat&color=4F46E5" alt="Profile Views" />
+
 
 <div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
@@ -103,5 +105,4 @@ drwxr-xr-x 10 17Sx dev     4096 Jun  1 12:30 ..
   <a href="mailto:noa.obringer@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://noaobringer.com"><img src="https://img.shields.io/badge/-Portfolio-4F46E5?style=flat&logo=safari&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/noaobringer"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black"/></a>
-  <img src="https://komarev.com/ghpvc/?username=17Sx&style=flat&color=4F46E5" alt="Profile Views" />
 </div>
