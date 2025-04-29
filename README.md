@@ -10,7 +10,6 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
 </div>
 
 <div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
@@ -44,6 +43,8 @@ Full Stack Developer | Web Enthusiast | Coffee Powered
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=nord_dark" alt="Top Languages by Repo" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=nord_dark" alt="Top Languages by Commit" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
+
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
 
