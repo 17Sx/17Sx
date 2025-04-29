@@ -8,9 +8,10 @@
 
 ```
 
-  <img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" /> 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=tokyonight&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-
+<div>
+  <img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
+</div>
 
 <div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
