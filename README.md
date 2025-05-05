@@ -43,7 +43,6 @@ Full Stack Developer | Web Enthusiast | Coffee Powered
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=nord_dark" alt="Top Languages by Repo" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=nord_dark" alt="Top Languages by Commit" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=nord&card_width=100&card_height=100&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
