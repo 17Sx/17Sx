@@ -43,7 +43,6 @@ Full Stack Developer | Web Enthusiast | Coffee Powered
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=nord_dark" alt="Top Languages by Repo" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=nord_dark" alt="Top Languages by Commit" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=nord&card_width=100&card_height=150&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
@@ -105,6 +104,7 @@ drwxr-xr-x 10 17Sx dev     4096 Jun  1 12:30 ..
 </div>
 
 <div align="right">
+  <img src="https://wakatime.com/badge/user/ba4a277b-c7f5-427c-ad83-1dd336249fe8.svg" alt="Total code wakatime""
   <a href="https://www.linkedin.com/in/noa-obringer-3a2793291/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:noa.obringer@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://noaobringer.com"><img src="https://img.shields.io/badge/-Portfolio-4F46E5?style=flat&logo=safari&logoColor=white"/></a>
