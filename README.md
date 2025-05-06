@@ -10,7 +10,7 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/ba4a277b-c7f5-427c-ad83-1dd336249fe8.svg" alt="Total code wakatime""
+[![wakatime](https://wakatime.com/badge/user/ba4a277b-c7f5-427c-ad83-1dd336249fe8.svg)](https://wakatime.com/@ba4a277b-c7f5-427c-ad83-1dd336249fe8)
 </div>
 
 <div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
