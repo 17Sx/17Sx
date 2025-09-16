@@ -1,4 +1,3 @@
-```ascii
 Im 17Sx
 *      
  *     
@@ -12,8 +11,6 @@ Im 17Sx
     * *
        
 *      
-```
-
 <div align="center">
   <img src="silver_surfer.png" alt="Silver Surfer" width="100%"/>
 </div>
