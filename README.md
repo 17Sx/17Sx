@@ -11,68 +11,19 @@
   <img src="https://komarev.com/ghpvc/?username=17Sx&style=for-the-badge&color=4F46E5" alt="Profile Views" />
 </div>
 
-<div style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', Courier, monospace; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+[<img align="left" width="390" alt="📊" src="https://raw.githubusercontent.com/17Sx/metrics/master/metrics.classic.svg">](#)
 
-<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ whoami
+[<img align="right" width="390" alt="⏰" src="https://raw.githubusercontent.com/17Sx/metrics/master/metrics.plugin.wakatime.svg">](#)
 
-```
-Full Stack Developer | Web Enthusiast | Poker Enjoyer | Coffee Powered
-```
+[<img align="right" width="390" alt="📈" src="https://github-readme-stats.vercel.app/api?username=17Sx&hide_border=true&show_icons=true&theme=nord&bg_color=FF0d1117&text_color=c9d1d9">](#)
 
-<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat contact.json
+[<img align="right" width="390" alt="🔥" src="http://github-readme-streak-stats.herokuapp.com?user=17Sx&theme=nord&hide_border=true&&dates=c9d1d9&background=FF0d1117">](#)
 
-```json
-{
-  "linkedin": "https://www.linkedin.com/in/noa-obringer-3a2793291/",
-  "email": "noa.obringer@gmail.com",
-  "portfolio": "https://noaobringer.com",
-  "github": "https://github.com/17Sx",
-  "buyMeACoffee": "https://buymeacoffee.com/noaobringer"
-}
-```
+[<img align="right" width="390" alt="💻" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Sx&hide=html&langs_count=8&layout=compact&hide_border=true&theme=nord&bg_color=FF0d1117&text_color=c9d1d9">](#)
 
-<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ./view_profile --stats
+[<img align="right" width="390" alt="🎯" src="https://github-readme-stats.vercel.app/api/pin/?username=17Sx&repo=Portfolio-2025&hide_border=true&theme=nord&bg_color=FF0d1117&text_color=c9d1d9">](#)
 
-```
-╔════════════════════════════════════════╗
-║           GITHUB STATISTICS            ║
-╚════════════════════════════════════════╝
-```
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=17Sx&theme=nord_dark" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=17Sx&theme=nord_dark" alt="Top Languages by Commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=17Sx&theme=nord&card_width=100&type=svg&hide_total_contributions=true&hide_longest_streak=true" alt="github streaks"/>
-
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-
-<div style="flex: 1;">
-<span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
-
-```javascript
-/**
- * @file: about.js
- * @description: Personal information
- */
-
-const dev = {
-  basedIn: "France 🇫🇷",
-  passions: ["Web development", "Poker", "Interface design"],
-  currentFocus: "Perfecting React and Next.js skills",
-  funFact: "I code better with a good coffee at hand ☕",
-
-  toString: function () {
-    return `${this.basedIn} developer passionate about ${this.passions.join(
-      ", "
-    )}`;
-  },
-};
-
-// Fun fact: This code actually runs!
-console.log(dev.toString());
-```
-
-</div>
+[<img align="right" width="410" alt="☕" src="https://raw.githubusercontent.com/17Sx/17Sx/main/poker-coffee.png">](#)
 
 <div align="right">
   <img src="https://wakatime.com/badge/user/ba4a277b-c7f5-427c-ad83-1dd336249fe8.svg" alt="Total code wakatime"
