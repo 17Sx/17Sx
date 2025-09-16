@@ -11,9 +11,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Sx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=17Sx&theme=dark&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&sideNums=FFFFFF&currStreakLabel=4F46E5&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" align="left" width="40%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=17Sx&theme=dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF" alt="GitHub Activity Graph" align="right" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=17Sx&theme=dark&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&sideNums=FFFFFF&currStreakLabel=4F46E5&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" align="left" width="45%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=17Sx&theme=dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF" alt="GitHub Activity Graph" align="right" width="45%"/>
 
 <div style="clear: both;"></div>
 
