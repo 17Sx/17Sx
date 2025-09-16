@@ -5,7 +5,6 @@
   | |  / / \___ \ \/ /
   | | / /  ____) >  <
   |_|/_/  |_____/_/\_\
-
 ```
 
 <div>
@@ -45,10 +44,10 @@ Full Stack Developer | Web Enthusiast | Poker Enjoyer | Coffee Powered
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Sx&theme=nord_dark" alt="GitHub Stats" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=17Sx&theme=nord&card_width=100&type=svg&hide_total_contributions=true&hide_longest_streak=true" alt="github streaks"/>
 
+<div style="display: flex; gap: 20px; margin: 20px 0;">
 
-
+<div style="flex: 1;">
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat about.js
-
 ```javascript
 /**
  * @file: about.js
@@ -56,53 +55,60 @@ Full Stack Developer | Web Enthusiast | Poker Enjoyer | Coffee Powered
  */
 
 const dev = {
-  basedIn: "France 🇫🇷",
-  passions: ["Web development", "Poker", "Interface design"],
-  currentFocus: "Perfecting React and Next.js skills",
-  funFact: "I code better with a good coffee at hand ☕",
+basedIn: "France 🇫🇷",
+passions: ["Web development", "Poker", "Interface design"],
+currentFocus: "Perfecting React and Next.js skills",
+funFact: "I code better with a good coffee at hand ☕",
 
-  toString: function () {
-    return `${this.basedIn} developer passionate about ${this.passions.join(
+toString: function () {
+return `${this.basedIn} developer passionate about ${this.passions.join(
       ", "
     )}`;
-  },
+},
 };
 
 // Fun fact: This code actually runs!
 console.log(dev.toString());
-```
 
+```
+</div>
+
+<div style="flex: 1;">
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ ls -la projects/
+```
+
+drwxr-xr-x 2 17Sx dev 4096 Jun 1 12:34 .
+drwxr-xr-x 10 17Sx dev 4096 Jun 1 12:30 ..
+-rw-r--r-- 1 17Sx dev 28642 Jun 1 12:31 Portfolio 2025.js
+-rw-r--r-- 1 17Sx dev 15432 May 28 09:45 overstats.js
+-rw-r--r-- 1 17Sx dev 9821 May 15 14:22 pokerodds.js
+-rw-r--r-- 1 17Sx dev 9821 May 09 14:22 BKM-poker.js
 
 ```
-drwxr-xr-x  2 17Sx dev     4096 Jun  1 12:34 .
-drwxr-xr-x 10 17Sx dev     4096 Jun  1 12:30 ..
--rw-r--r--  1 17Sx dev    28642 Jun  1 12:31 Portfolio 2025.js
--rw-r--r--  1 17Sx dev    15432 May 28 09:45 overstats.js
--rw-r--r--  1 17Sx dev     9821 May 15 14:22 pokerodds.js
--rw-r--r--  1 17Sx dev     9821 May 09 14:22 BKM-poker.js
+</div>
 
-```
+</div>
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ cat README.txt
-
 ```
+
 ╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║  Thanks for visiting my GitHub profile!                                    ║
-║                                                                            ║
-║  Feel free to explore my repositories and projects.                        ║
-║                                                                            ║
-║  If you'd like to collaborate or have any questions,                       ║
-║  don't hesitate to contact me.                                             ║
-║                                                                            ║
-║  If you find my work helpful or interesting,                               ║
-║  consider supporting me with a coffee!                                     ║
-║                                                                            ║
-║                                                                            ║
-║  <!-- Try running: ./secret_command --poker-facts -->                      ║
-║                                                                            ║
+║ ║
+║ Thanks for visiting my GitHub profile! ║
+║ ║
+║ Feel free to explore my repositories and projects. ║
+║ ║
+║ If you'd like to collaborate or have any questions, ║
+║ don't hesitate to contact me. ║
+║ ║
+║ If you find my work helpful or interesting, ║
+║ consider supporting me with a coffee! ║
+║ ║
+║ ║
+║ <!-- Try running: ./secret_command --poker-facts --> ║
+║ ║
 ╚════════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 <span style="color: #7ee787">visitor@github</span>:<span style="color: #58a6ff">~/17Sx</span>$ <span style="animation: blinker 1s linear infinite; display: inline-block; width: 10px; height: 15px; background-color: #c9d1d9;"></span>
@@ -140,3 +146,4 @@ And here's what you'll see:
   <a href="https://noaobringer.com"><img src="https://img.shields.io/badge/-Portfolio-4F46E5?style=flat&logo=safari&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/noaobringer"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black"/></a>
 </div>
+```
