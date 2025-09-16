@@ -9,7 +9,7 @@
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 0 0 300px;">
+  <div style="flex: 0 0 80px;">
     <img src="silver_surfer.png" alt="Silver Surfer" width="100%"/>
   </div>
   <div style="flex: 1;">
