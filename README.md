@@ -11,7 +11,7 @@
 
 <td align="center">
 <img src="github-metrics.svg" alt="GitHub Metrics" />
-<img src="metrics.plugin.people.svg" alt="People" />
+<img src="metrics.plugin.languages.svg" alt="Languages" />
 </td>
 
 </tr>
