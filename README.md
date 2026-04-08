@@ -2,10 +2,10 @@
 
 <table>
 
-<tr>
+<tr display="flex">
 
 <td width="300" align="center">
-<img src="silver.png" width="280" alt="Silver Surfer" />
+<img src="silver.png" alt="Silver Surfer" />
 </td>
 
 <td align="center">
@@ -15,6 +15,7 @@
 <img src="metrics.plugin.activity.svg" alt="Activity" />
 <img src="metrics.plugin.people.svg" alt="People" />
 </td>
+
 </tr>
 
 </table>
