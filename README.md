@@ -6,27 +6,14 @@
 
 > _Always grinding — 24/7, no breaks, no excuses._
 
+<br>
+
 ---
 
-<table>
-<tr>
-<td align="center" colspan="2">
-<img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="metrics.plugin.habits.charts.svg" alt="Habits Charts" />
-</td>
-<td align="center">
-<img src="metrics.plugin.activity.svg" alt="Activity" />
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img src="metrics.plugin.people.svg" alt="People" />
-</td>
-</tr>
-</table>
+<img src="metrics.plugin.isocalendar.svg" width="100%" alt="Isocalendar" />
+
+<img src="metrics.plugin.habits.charts.svg" width="49%" alt="Habits Charts" /> <img src="metrics.plugin.activity.svg" width="49%" alt="Activity" />
+
+<img src="metrics.plugin.people.svg" width="100%" alt="People" />
 
 </div>
