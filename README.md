@@ -4,7 +4,7 @@
 
 <tr display="flex">
 
-<td width="300" align="center">
+<td align="center">
 <img src="silver.png" alt="Silver Surfer" />
 <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </td>
