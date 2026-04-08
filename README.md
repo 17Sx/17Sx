@@ -1,19 +1,45 @@
 <div align="center">
 
-<img src="silver.png" width="280" alt="Silver Surfer" />
-
 # 17Sx
 
 > _Always grinding — 24/7, no breaks, no excuses._
 
-<br>
+</div>
 
 ---
 
-<img src="metrics.plugin.isocalendar.svg" width="100%" alt="Isocalendar" />
+<table>
+<tr>
+<td width="300" align="center">
+<img src="silver.png" width="280" alt="Silver Surfer" />
+</td>
+<td>
+<img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+</td>
+</tr>
+</table>
 
-<img src="metrics.plugin.habits.charts.svg" width="49%" alt="Habits Charts" /> <img src="metrics.plugin.activity.svg" width="49%" alt="Activity" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="metrics.plugin.habits.charts.svg" alt="Habits Charts" />
+</td>
+<td align="center" width="50%">
+<img src="metrics.plugin.activity.svg" alt="Activity" />
+</td>
+</tr>
+</table>
 
-<img src="metrics.plugin.people.svg" width="100%" alt="People" />
+<table>
+<tr>
+<td align="center">
+<img src="metrics.plugin.people.svg" alt="People" />
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 </div>
