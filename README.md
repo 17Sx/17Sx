@@ -6,12 +6,12 @@
 
 <td align="center">
 <img src="silver.png" alt="Silver Surfer" />
+<img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </td>
 
 <td align="center">
 <img src="github-metrics.svg" alt="GitHub Metrics" />
 <img src="metrics.plugin.languages.svg" alt="Languages" />
-<img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </td>
 
 </tr>
