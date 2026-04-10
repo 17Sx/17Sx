@@ -5,7 +5,7 @@
 <tr display="flex">
 
 <td align="center">
-<img src="silver.png" alt="Silver Surfer" />
+<img src="kura.png"/>
 <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </td>
 
