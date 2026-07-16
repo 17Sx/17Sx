@@ -78,11 +78,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
+
+          # Metrics steps may leave dirty files while also pushing to origin.
+          # Preserve our SVG, sync hard to remote, then commit only this file.
+          cp deep-work-debt.svg /tmp/deep-work-debt.svg
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+          cp /tmp/deep-work-debt.svg deep-work-debt.svg
+
           git add deep-work-debt.svg
           if git diff --staged --quiet; then
             echo "No deep-work-debt changes"
           else
             git commit -m "chore: update deep-work-debt.svg"
-            git push
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
+
