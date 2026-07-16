@@ -12,6 +12,8 @@
 <td align="center">
 <img src="github-metrics.svg" alt="GitHub Metrics" />
 <img src="metrics.plugin.languages.svg" alt="Languages" />
+<br/>
+<img src="deep-work-debt.svg" alt="Deep work debt" />
 </td>
 
 </tr>

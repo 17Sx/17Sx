@@ -15,6 +15,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
       # Base GitHub metrics (commits, PRs, issues, stars, etc.)
       - name: GitHub Metrics
@@ -64,3 +66,23 @@ jobs:
           plugin_wakatime_languages_other: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           config_timezone: Europe/Paris
+
+      # Deep work debt = weekly goal − coded hours (+ 7d bar chart)
+      - name: Deep work debt
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+          DEEP_WORK_GOAL_HOURS: "40"
+        run: node scripts/generate-deep-work-debt.mjs
+
+      - name: Commit deep work debt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git add deep-work-debt.svg
+          if git diff --staged --quiet; then
+            echo "No deep-work-debt changes"
+          else
+            git commit -m "chore: update deep-work-debt.svg"
+            git push
+          fi
