@@ -1,47 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="132" viewBox="0 0 480 132" role="img" aria-label="Deep work debt">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img" aria-label="Deep work debt">
   <style>
-    @keyframes dw-gauge { from { stroke-dashoffset: 213.6 } to { stroke-dashoffset: 106.3 } }
-    @keyframes dw-rise { from { transform: scaleY(0) } to { transform: scaleY(1) } }
+    @keyframes dw-draw { from { stroke-dashoffset: 400 } to { stroke-dashoffset: 0 } }
     @keyframes dw-fade { from { opacity: 0 } to { opacity: 1 } }
-    .dw-gauge { stroke-dasharray: 213.6; stroke-dashoffset: 213.6; animation: dw-gauge 1s ease forwards; transform: rotate(-90deg); transform-origin: 64px 78px }
-    .dw-bar { transform-box: fill-box; transform-origin: bottom; animation: dw-rise .55s ease both }
-    .dw-fade { opacity: 0; animation: dw-fade .5s ease .2s forwards }
+    .dw-line { stroke-dasharray: 400; animation: dw-draw 1.1s ease forwards }
+    .dw-fade { opacity: 0; animation: dw-fade .6s ease .3s forwards }
   </style>
 
-  <!-- header (metrics style) -->
-  <svg x="8" y="10" width="16" height="16" viewBox="0 0 16 16" fill="#0366d6">
+  <!-- transparent background (like metrics plugins) -->
+
+  <!-- header -->
+  <svg x="16" y="14" width="16" height="16" viewBox="0 0 16 16" fill="#0366d6">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
   </svg>
-  <text x="32" y="23" fill="#0366d6" font-size="16" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Deep work debt</text>
-  <text x="472" y="23" text-anchor="end" fill="#777777" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">last 7 days</text>
+  <text x="40" y="27" fill="#0366d6" font-size="16" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Deep work debt</text>
+  <text x="464" y="27" text-anchor="end" fill="#777777" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">7d</text>
 
-  <!-- gauge -->
-  <circle cx="64" cy="78" r="34" fill="none" stroke="#ebedf0" stroke-width="7"/>
-  <circle class="dw-gauge" cx="64" cy="78" r="34" fill="none" stroke="#30a14e" stroke-width="7" stroke-linecap="round"/>
-  <text x="64" y="76" text-anchor="middle" fill="#30a14e" font-size="17" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">50%</text>
-  <text x="64" y="92" text-anchor="middle" fill="#777777" font-size="9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">of goal</text>
+  <!-- metric -->
+  <text x="16" y="58" fill="#777777" font-size="11" letter-spacing="1.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">DEBT</text>
+  <text x="16" y="84" fill="#30a14e" font-size="28" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">19h 51m</text>
+  <text x="16" y="104" fill="#777777" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">20h 9m/40h · 50%</text>
 
-  <!-- daily goal guide + contribution bars -->
-  <line x1="124" y1="46.6" x2="352" y2="46.6" stroke="#ebedf0" stroke-width="1" stroke-dasharray="3 3"/>
-  <g class="dw-fade">
-    <rect class="dw-bar" style="animation-delay:0.00s" x="124" y="42.0" width="24" height="58.0" rx="4" fill="#216e39"/>
-    <text x="136.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">F</text>
-    <rect class="dw-bar" style="animation-delay:0.06s" x="158" y="85.0" width="24" height="15.0" rx="4" fill="#40c463"/>
-    <text x="170.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">S</text>
-    <rect class="dw-bar" style="animation-delay:0.12s" x="192" y="94.0" width="24" height="6.0" rx="4" fill="#9be9a8"/>
-    <text x="204.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">S</text>
-    <rect class="dw-bar" style="animation-delay:0.18s" x="226" y="44.3" width="24" height="55.7" rx="4" fill="#216e39"/>
-    <text x="238.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">M</text>
-    <rect class="dw-bar" style="animation-delay:0.24s" x="260" y="96.0" width="24" height="4.0" rx="4" fill="#ebedf0"/>
-    <text x="272.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">T</text>
-    <rect class="dw-bar" style="animation-delay:0.30s" x="294" y="59.7" width="24" height="40.3" rx="4" fill="#30a14e"/>
-    <text x="306.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">W</text>
-    <rect class="dw-bar" style="animation-delay:0.36s" x="328" y="81.6" width="24" height="18.4" rx="4" fill="#40c463"/>
-    <text x="340.0" y="116" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">T</text></g>
+  <!-- progress -->
+  <rect x="16" y="112" width="168" height="2" rx="1" fill="#ebedf0"/>
+  <rect x="16" y="112" width="85" height="2" rx="1" fill="#30a14e" class="dw-fade"/>
 
-  <!-- debt read-out -->
-  <text x="472" y="56" text-anchor="end" fill="#777777" font-size="11" letter-spacing="1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">debt</text>
-  <text x="472" y="80" text-anchor="end" fill="#30a14e" font-size="22" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">19h 55m</text>
-  <text x="472" y="100" text-anchor="end" fill="#777777" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">20h 5m / 40h</text>
+  <!-- sparkline -->
+  <line x1="208" y1="45.8" x2="456.0" y2="45.8" stroke="#ebedf0" stroke-width="1" stroke-dasharray="3 3"/>
+  <polygon points="208,90.0 208.0,42.0 249.3,77.6 290.7,89.7 332.0,43.9 373.3,90.0 414.7,56.7 456.0,74.3 456.0,90.0" fill="#30a14e" opacity="0.12" class="dw-fade"/>
+  <polyline points="208.0,42.0 249.3,77.6 290.7,89.7 332.0,43.9 373.3,90.0 414.7,56.7 456.0,74.3" fill="none" stroke="#30a14e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="dw-line"/>
+  <g class="dw-fade"><circle cx="208.0" cy="42.0" r="2.75" fill="#216e39" stroke="#ffffff" stroke-width="0.75"/><circle cx="249.3" cy="77.6" r="2.75" fill="#40c463" stroke="#ffffff" stroke-width="0.75"/><circle cx="290.7" cy="89.7" r="2.75" fill="#9be9a8" stroke="#ffffff" stroke-width="0.75"/><circle cx="332.0" cy="43.9" r="2.75" fill="#216e39" stroke="#ffffff" stroke-width="0.75"/><circle cx="373.3" cy="90.0" r="2.75" fill="#ebedf0" stroke="#ffffff" stroke-width="0.75"/><circle cx="414.7" cy="56.7" r="2.75" fill="#30a14e" stroke="#ffffff" stroke-width="0.75"/><circle cx="456.0" cy="74.3" r="2.75" fill="#40c463" stroke="#ffffff" stroke-width="0.75"/></g>
+  <text x="208.0" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">F</text><text x="249.3" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">S</text><text x="290.7" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">S</text><text x="332.0" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">M</text><text x="373.3" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">T</text><text x="414.7" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">W</text><text x="456.0" y="104" text-anchor="middle" fill="#777777" font-size="10" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">T</text>
 </svg>
