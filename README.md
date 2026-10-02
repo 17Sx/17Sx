@@ -7,13 +7,8 @@
 <td align="center">
 <img src="kua.png"/>
 <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
-</td>
-
-<td align="center">
 <img src="github-metrics.svg" alt="GitHub Metrics" />
 <img src="metrics.plugin.languages.svg" alt="Languages" />
-<br/>
-<img src="metrics.plugin.wakatime.svg" alt="WAKATIME INFO" />
 </td>
 
 </tr>
